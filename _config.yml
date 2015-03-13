@@ -1,0 +1,15 @@
+name: Life of LY
+url: http://jaasly.github.io
+
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+archive_path: /archive.html
+categories_path : /categories.html
+tags_path : /tags.html
+atom_path : /atom.xml
+rss_path : /rss.xml
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
